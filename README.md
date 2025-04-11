@@ -18,10 +18,9 @@ Coming soon:
 🚧 LocalStorage persistence (save tasks between sessions)
 
 Goal: Master DOM manipulation and state management in vanilla JS.
-![Todo Progress](https://progress-bar.dev/10?title=Todo+App)
 
 ### Completed Projects  
-- 📰 [Project 3](https://rodrianaa.github.io/admin-panel/) - Modern admin panel built with:  
+- 📰 [Project 3](https://github.com/Rodrianaa/admin-panel) - Modern admin panel built with:  
 - **HTML5** (Semantic markup)  
 - **CSS** (Grid/Flexbox layouts, transitions)  
 - **Bootstrap 5** (Responsive utilities)  
@@ -32,12 +31,10 @@ Goal: Master DOM manipulation and state management in vanilla JS.
 ✅ Mobile-friendly dropdowns  
 ✅ Fullscreen mode toggle  
 ✅ Animated search bar  
-![Todo Progress](https://progress-bar.dev/100?title=Todo+App)
-- 🎉 [Project 3](https://github.com/Rodrianaa/crypto-news-page.git) - Mobile-first CSS Grid layout · Semantic HTML5 ![Todo Progress](https://progress-bar.dev/50?title=Todo+App)
-- 🏆 [Project 4](https://rodrianaa.github.io/testimonals-grid-section/) -  Mobile-first CSS Grid layout · Semantic HTML5  ![Todo Progress](https://progress-bar.dev/50?title=Todo+App)
-- 🌐 [Project 5](https://rodrianaa.github.io/clipboard-landing-page/) - clipboard-landing-page built with: 
+- 🎉 [Project 4](https://github.com/Rodrianaa/crypto-news-page.git) - Mobile-first CSS Grid layout · Semantic HTML5
+- 🏆 [Project 5](https://github.com/Rodrianaa/testimonals-grid-section) -  Mobile-first CSS Grid layout · Semantic HTML5
+- 🌐 [Project 6](https://github.com/Rodrianaa/clipboard-landing-page) - clipboard-landing-page built with: 
 - **Bootstrap 5** (Grid system, components)  
 - **CSS** (Flexbox for micro-layouts, custom animations)  
 - **Semantic HTML5** (ARIA labels, landmark roles)  
 - **JavaScript** (DOM manipulation, event handling)
-![Todo Progress](https://progress-bar.dev/50?title=Todo+App)
